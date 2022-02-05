@@ -95,9 +95,8 @@ prevBtn.addEventListener("click", prevSong);
 //Ha a zene végetért lépjen a következőre
 audio.addEventListener("ended", nextSong);
 
-window.addEventListener("Load", () => {
-
-    console.log("Rögzítsük a változtatást!");
-})
+window.addEventListener('load', function () {
+    console.log('Rögzítsük a változtatást!')
+  })
 
 
