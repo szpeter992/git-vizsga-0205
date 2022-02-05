@@ -12,3 +12,5 @@ git checkout console
 git commit -m "app.js változtatás megtörtént sikeresen"
 git commit -m "style.css változtatása  megtörtént sikeresen"
 git checkout master
+git push -u origin master
+git push -u origin console
