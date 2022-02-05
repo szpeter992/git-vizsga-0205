@@ -6,3 +6,4 @@ touch .gitignore
 git status
 git add .
 git commit -m "Létrehoztam a README.md és a .gitignore file-t"
+git commit -m "gitignoreba beleírtam miket mellőzzön"
